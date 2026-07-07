@@ -20,5 +20,5 @@ O modelo apresenta métricas de detecção robustas (mAP50 de 0.86), com o detal
 ## 📁 Estrutura
 - `/weights/best.pt`: Pesos do modelo treinado.
 - `/images_results/`: Gráficos de treinamento e matriz de confusão.
-- `Projeto_Final_Visão_Computacional.ipynb`: Código completo de treino e teste.
-- `relatorio_final.pdf`: Artigo técnico detalhado.
+- `projeto_ginal_visao_computacional.ipynb`: Código completo de treino e teste.
+- `relatorio_projeto_final_cv.pdf`: Artigo técnico detalhado.
