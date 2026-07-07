@@ -1,4 +1,4 @@
-# Inspeção Visual de Transistores THT (YOLOv26)
+# Sistema de Inspeção Visual de Transistores THT (YOLOv26)
 
 Este projeto implementa um sistema de detecção de defeitos em componentes eletrônicos (transistores THT) utilizando a arquitetura **YOLO26**. O sistema é capaz de identificar componentes íntegros (`good`), com pinos cortados (`cut-lead`), encapsulamento danificado (`damaged-case`) ou mal posicionados (`misplaced`).
 
